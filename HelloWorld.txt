@@ -1,18 +1,18 @@
 class HelloWorld
 {
 
-
-  	void mymethd()
+   
+static mymethod()
 {
-system.out.println("hello modified bug13");
+system.out.println("hiii");
 
 
-
-}
 
 	public static void main(String args[])
 
 {
+
+Helloworld.mymethod();
 
 }
 }
