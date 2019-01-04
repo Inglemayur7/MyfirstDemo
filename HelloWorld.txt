@@ -1,7 +1,18 @@
 class HelloWorld
+{
 
+
+  	void mymethd()
+{
+system.out.println("hello modified bug13");
+
+
+
+}
 
 	public static void main(String args[])
+
 {
-	system.out.println("hello welcome to git");
+
+}
 }
