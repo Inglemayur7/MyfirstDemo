@@ -1,7 +1,7 @@
 class HelloWorld
 
 
-public static void main(String args)
+	public static void main(String args[])
 {
-system.out.println("hel");
+	system.out.println("hello welcome to git");
 }
